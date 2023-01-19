@@ -1,18 +1,25 @@
 {
-    "name": "namoshek/laravel-redis-sentinel",
+    "name": "evertramos/laravel-redis-sentinel",
     "description": "An extension of Laravels Redis driver which supports connecting to a Redis master through Redis Sentinel.",
     "keywords": [
         "laravel",
-        "redis"
+        "redis",
+        "redis-sentinel",
+        "sentinel"
     ],
-    "homepage": "https://github.com/Namoshek/laravel-redis-sentinel",
+    "homepage": "https://github.com/evertramos/laravel-redis-sentinel",
     "license": "MIT",
     "authors": [
         {
             "name": "Marvin Mall",
             "email": "marvin-mall@msn.com",
             "role": "Developer"
-        }
+        },
+        {
+            "name": "Evert RAmos",
+            "email": "evert.ramos@gmail.com",
+            "role": "Developer"
+        }        
     ],
     "require": {
         "php": "^8.0",
